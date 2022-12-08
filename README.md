@@ -1,2 +1,2 @@
 # crud-node-sequelize-mysql
-Tutorial de CRUD com Node.js, Sequelize e MySQL
+Tutorial de CRUD com Node.js, Sequelize e MySQL de Luiz Tools
